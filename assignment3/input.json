@@ -1,0 +1,17 @@
+{
+    "id": 1462406556741,
+    "success_http_response_code": 200,
+    "max_retries": 5,
+    "callback_webhook_url": "http://requestb.in/1idfnfq1",
+    "request": {
+        "url": "http://requestb.in/t4ljswt4",
+        "method": "POST",
+        "http_headers" : {
+            "Content-Type": "application/json",
+            "Accept": "application/json"      
+        },
+        "body" : {
+            "foo": "bar"
+        }
+    }
+}
